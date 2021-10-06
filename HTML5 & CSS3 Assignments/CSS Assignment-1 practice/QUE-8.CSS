@@ -1,0 +1,17 @@
+p.T1{
+    background-color: turquoise;
+    border: 9px solid black;
+}
+
+p.T2{
+    background-color: turquoise;
+    border: 5px solid black;
+}
+
+p.T3{
+    background-color: turquoise;
+    border: 2px solid black;
+}
+p.T4{
+    background-color: turquoise;
+}
